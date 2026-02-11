@@ -215,12 +215,6 @@ Ver [CONTRIBUTING.md](CONTRIBUTING.md) para más detalles.
 - 📖 "Python for Data Analysis" - Wes McKinney
 - 📖 "Python Data Science Handbook" - Jake VanderPlas
 - 📖 "Econometrics with Python" - Various Authors
-
-### Cursos en Línea
-- [Real Python](https://realpython.com/)
-- [DataCamp - Python for Data Science](https://www.datacamp.com/tracks/python-programming)
-- [Coursera - Python for Everybody](https://www.coursera.org/specializations/python)
-
 ---
 
 ## 📧 Contacto
@@ -236,16 +230,6 @@ Ver [CONTRIBUTING.md](CONTRIBUTING.md) para más detalles.
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
-
----
-
-## ⭐ Reconocimientos
-
-Este material ha sido desarrollado como parte de la enseñanza en:
-- 🏛️ Centro de Investigación y Docencia Económicas (CIDE)
-- 🎓 Universidad Nacional Autónoma de México (UNAM)
-
-Agradecimientos especiales a todos los estudiantes que han contribuido con feedback y sugerencias.
 
 ---
 
